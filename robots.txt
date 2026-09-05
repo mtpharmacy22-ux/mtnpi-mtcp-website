@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mtnpi.com/sitemap.xml
+Sitemap: https://mtcp.co.in/sitemap.xml
