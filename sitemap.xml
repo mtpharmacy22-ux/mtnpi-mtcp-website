@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.mtnpi.com/index.html</loc>
+    <loc>https://mtcp.co.in/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.mtnpi.com/index.html#nursing</loc>
+    <loc>https://mtcp.co.in/index.html#nursing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.mtnpi.com/index.html#labs</loc>
+    <loc>https://mtcp.co.in/index.html#labs</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.mtnpi.com/index.html#achievers</loc>
+    <loc>https://mtcp.co.in/index.html#achievers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.mtnpi.com/index.html#faculty</loc>
+    <loc>https://mtcp.co.in/index.html#faculty</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.mtnpi.com/index.html#contact</loc>
+    <loc>https://mtcp.co.in/index.html#contact</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mtcp.in/pharmacy.html</loc>
+    <loc>https://mtcp.co.in/pharmacy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
